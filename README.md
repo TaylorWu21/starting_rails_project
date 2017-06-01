@@ -11,6 +11,6 @@
 * <code>rails g controller <PLURALIZE_NAME_OF_MODEL> index show new edit</code>
 * Update config/routes.rb
 * Fill out controller method
-* Update the views to display data given from controller
+* Fill out the views to display data given from controller
 * Rinse and repeat
 * CELEBRATE 🎉🎉🎉
